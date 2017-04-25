@@ -26,3 +26,30 @@ c:\users\jessie & sam\documents\visual studio 2015\Projects\WebApplication2\WebA
 c:\users\jessie & sam\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 c:\users\jessie & sam\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
 c:\users\jessie & sam\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\LMS\Documents\demo\demo\WebApplication2\bin\WebApplication2.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\WebApplication2.pdb
+E:\LMS\Documents\demo\demo\WebApplication2\bin\WebApplication2.xml
+E:\LMS\Documents\demo\demo\WebApplication2\bin\Antlr3.Runtime.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.Helpers.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.Mvc.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.Optimization.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.Razor.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.WebPages.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.WebPages.Razor.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\WebGrease.dll
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.Helpers.xml
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.Mvc.xml
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.Optimization.xml
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.Razor.xml
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.WebPages.xml
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+E:\LMS\Documents\demo\demo\WebApplication2\bin\System.Web.WebPages.Razor.xml
+E:\LMS\Documents\demo\demo\WebApplication2\bin\Antlr3.Runtime.pdb
+E:\LMS\Documents\demo\demo\WebApplication2\obj\Debug\WebApplication2.vbprojResolveAssemblyReference.cache
+E:\LMS\Documents\demo\demo\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+E:\LMS\Documents\demo\demo\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+E:\LMS\Documents\demo\demo\WebApplication2\obj\Debug\WebApplication2.dll
+E:\LMS\Documents\demo\demo\WebApplication2\obj\Debug\WebApplication2.xml
+E:\LMS\Documents\demo\demo\WebApplication2\obj\Debug\WebApplication2.pdb
